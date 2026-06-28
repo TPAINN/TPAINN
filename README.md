@@ -1,54 +1,50 @@
-# Hi, I'm Apostolos 👋
+# Apostolos Peiniris
 
-**Full-Stack Developer** | React · Node.js · PostgreSQL
+**Full-Stack Developer** — React · Java/Spring Boot · PostgreSQL · Kotlin
 
----
+[![Portfolio](https://img.shields.io/badge/portfolio-apostolos--peiniris.vercel.app-B87333?style=flat-square)](https://apostolos-peiniris.vercel.app/)
+[![Email](https://img.shields.io/badge/email-apostolos.peiniris@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:apostolos.peiniris@gmail.com)
 
-### About Me
-
-- 🔭 Building **[Καλαθάκι / Smart Grocery](https://github.com/TPAINN/smart-grocery-frontend)** — price comparison across 8 Greek supermarkets, AI meal planning, real-time shared carts. PWA + Android, live in production.
-- 🌱 Learning: TypeScript, Docker, system design
-- 💬 Ask me about React, REST APIs, web scraping, or PostgreSQL
-- ⚡ Fun fact: I learn best by building real projects
+CS graduate (University of Western Macedonia) building production-ready web & mobile apps. Focused on full-stack development and AI integration.
 
 ---
 
-### 🛠 Tech Stack
+### Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+| Project | Live | Stack |
+|---|---|---|
+| 🛒 [Καλαθάκι](https://github.com/TPAINN/smart-grocery-frontend) | [kalathaki.vercel.app](https://kalathaki.vercel.app/) | React 19 · Capacitor · Express · MongoDB · Stripe |
+| 🔔 [RingVault](https://github.com/TPAINN/ringvault) | [ringvault.vercel.app](https://ringvault.vercel.app/) | Kotlin · Compose · Node.js · MongoDB |
+| 🎵 [Aurora Player](https://github.com/TPAINN/aurora-player) | [Live](https://web-eight-mocha-75.vercel.app/) | React 19 · Framer Motion · LRCLib |
+| 🧠 [MindFeed](https://github.com/TPAINN/mindfeed) | [Live](https://frontend-orpin-six-14.vercel.app/) | React · Claude AI · PWA |
+| 🌀 [Vortex](https://github.com/TPAINN/vortex-site) | [vortex-site-pi.vercel.app](https://vortex-site-pi.vercel.app/) | Android · Static landing |
+| ⛅ [Weather App](https://github.com/TPAINN/Weather-App) | [Live](https://weather-app-five-kappa-79.vercel.app/) | JavaScript · Weather API |
+| 🧮 [Calculator](https://github.com/TPAINN/calculator) | [Live](https://calculator-kappa-pearl-83.vercel.app/) | React · Vite |
+
+---
+
+### Stack
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPAINN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPAINN&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TPAINN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPAINN&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛒 [smart-grocery-frontend](https://github.com/TPAINN/smart-grocery-frontend) | **Καλαθάκι** — Ψώνια χωρίς άγχος: price comparison (8 Greek supermarkets), AI meal planner, plate scanner, smart route map, shared carts. PWA + Android | React 19, Vite, Capacitor, Stripe, Leaflet |
-| ⚙️ [smart-grocery-backend](https://github.com/TPAINN/smart-grocery-backend) | API powering Καλαθάκι — Puppeteer scrapers with Greek-aware search, AI provider chain (Claude/Gemini/Groq), real-time carts, payments | Express 5, MongoDB, Puppeteer, Socket.IO |
-| 🧮 [calculator](https://github.com/TPAINN/calculator) | Minimal calculator | React, Vite |
-| ⛅ [Weather-App](https://github.com/TPAINN/Weather-App) | Real-time weather dashboard | JavaScript |
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TPAINN&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TPAINN&color=B87333&style=flat" />
 </p>
