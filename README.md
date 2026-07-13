@@ -3,6 +3,8 @@
 **Full-Stack Developer** — React · Java/Spring Boot · PostgreSQL · Kotlin
 
 [![Portfolio](https://img.shields.io/badge/portfolio-apostolos--peiniris.vercel.app-B87333?style=flat-square)](https://apostolos-peiniris.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-apostolos--peiniris-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolos-peiniris-a02a961a5/)
+[![CV](https://img.shields.io/badge/CV-download_PDF-2b2620?style=flat-square)](https://apostolos-peiniris.vercel.app/cv/CV_Apostolos_Peiniris_EN.pdf)
 [![Email](https://img.shields.io/badge/email-apostolos.peiniris@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:apostolos.peiniris@gmail.com)
 
 CS graduate (University of Western Macedonia) building production-ready web & mobile apps. Focused on full-stack development and AI integration.
@@ -15,11 +17,11 @@ CS graduate (University of Western Macedonia) building production-ready web & mo
 |---|---|---|
 | 🛒 [Καλαθάκι](https://github.com/TPAINN/smart-grocery-frontend) | [kalathaki.vercel.app](https://kalathaki.vercel.app/) | React 19 · Capacitor · Express · MongoDB · Stripe |
 | 🔔 [RingVault](https://github.com/TPAINN/ringvault) | [ringvault.vercel.app](https://ringvault.vercel.app/) | Kotlin · Compose · Node.js · MongoDB |
-| 🎵 [Aurora Player](https://github.com/TPAINN/aurora-player) | [Live](https://web-eight-mocha-75.vercel.app/) | React 19 · Framer Motion · LRCLib |
-| 🧠 [MindFeed](https://github.com/TPAINN/mindfeed) | [Live](https://frontend-orpin-six-14.vercel.app/) | React · Claude AI · PWA |
+| 🎵 [Aurora Player](https://github.com/TPAINN/aurora-player) | [Live](https://aurora-player-tpainn.vercel.app/) | React 19 · Framer Motion · LRCLib |
+| 🧠 [MindFeed](https://github.com/TPAINN/mindfeed) | [Live](https://mindfeed-tpainn.vercel.app/) | React · Claude AI · PWA |
 | 🌀 [Vortex](https://github.com/TPAINN/vortex-site) | [vortex-site-pi.vercel.app](https://vortex-site-pi.vercel.app/) | Android · Static landing |
-| ⛅ [Weather App](https://github.com/TPAINN/Weather-App) | [Live](https://weather-app-five-kappa-79.vercel.app/) | JavaScript · Weather API |
-| 🧮 [Calculator](https://github.com/TPAINN/calculator) | [Live](https://calculator-kappa-pearl-83.vercel.app/) | React · Vite |
+| ⛅ [Weather App](https://github.com/TPAINN/Weather-App) | [Live](https://weather-app-tpainn.vercel.app/) | JavaScript · Weather API |
+| 🧮 [Calculator](https://github.com/TPAINN/calculator) | [Live](https://calculator-tpainn.vercel.app/) | React · Vite |
 
 ---
 
