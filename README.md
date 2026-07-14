@@ -15,12 +15,12 @@ CS graduate (University of Western Macedonia) building production-ready web & mo
 
 | Project | Live | Stack |
 |---|---|---|
-| 🛒 [Καλαθάκι](https://github.com/TPAINN/smart-grocery-frontend) | [kalathaki.vercel.app](https://kalathaki.vercel.app/) | React 19 · Capacitor · Express · MongoDB · Stripe |
+| 🛒 [Καλαθάκι](https://apostolos-peiniris.vercel.app/case-study/) | [kalathaki.vercel.app](https://kalathaki.vercel.app/) | React 19 · Capacitor · Express · MongoDB · Stripe |
 | 🔔 [RingVault](https://github.com/TPAINN/ringvault) | [ringvault.vercel.app](https://ringvault.vercel.app/) | Kotlin · Compose · Node.js · MongoDB |
 | 🎵 [Aurora Player](https://github.com/TPAINN/aurora-player) | [Live](https://aurora-player-tpainn.vercel.app/) | React 19 · Framer Motion · LRCLib |
 | 🧠 [MindFeed](https://github.com/TPAINN/mindfeed) | [Live](https://mindfeed-tpainn.vercel.app/) | React · Claude AI · PWA |
 | 🌀 [Vortex](https://github.com/TPAINN/vortex-site) | [vortex-site-pi.vercel.app](https://vortex-site-pi.vercel.app/) | Android · Static landing |
-| ⛅ [Weather App](https://github.com/TPAINN/Weather-App) | [Live](https://weather-app-tpainn.vercel.app/) | JavaScript · Weather API |
+| ⛅ Weather App | [Live](https://weather-app-tpainn.vercel.app/) | JavaScript · Weather API |
 | 🧮 [Calculator](https://github.com/TPAINN/calculator) | [Live](https://calculator-tpainn.vercel.app/) | React · Vite |
 
 ---
