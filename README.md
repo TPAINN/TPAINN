@@ -1,6 +1,6 @@
 # Apostolos Peiniris
 
-**Full-Stack Developer** — React · Java/Spring Boot · PostgreSQL · Kotlin
+**Full-Stack Developer** — React · Kotlin/Jetpack Compose · Node.js · Java/Spring Boot · AI integration
 
 [![Portfolio](https://img.shields.io/badge/portfolio-apostolos--peiniris.vercel.app-B87333?style=flat-square)](https://apostolos-peiniris.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apostolos--peiniris-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolos-peiniris-a02a961a5/)
@@ -15,11 +15,13 @@ CS graduate (University of Western Macedonia) building production-ready web & mo
 
 | Project | Live | Stack |
 |---|---|---|
-| 🛒 [Καλαθάκι](https://apostolos-peiniris.vercel.app/case-study/) | [kalathaki.vercel.app](https://kalathaki.vercel.app/) | React 19 · Capacitor · Express · MongoDB · Stripe |
+| 🥗 [Nufo](https://github.com/TPAINN/nufo) | [nufo.vercel.app](https://nufo.vercel.app/) | Kotlin · Compose · SwiftUI · Gemini AI · Open Food Facts |
+| 🏋️ Shft | [shftapp.vercel.app](https://shftapp.vercel.app/) | React · Capacitor (Android) · Supabase |
+| 🛒 [Καλαθάκι](https://apostolos-peiniris.vercel.app/case-study/) | [kalathaki.vercel.app](https://kalathaki.vercel.app/) | React 19 · Capacitor · Express · MongoDB · Puppeteer · Socket.IO |
 | 🔔 [RingVault](https://github.com/TPAINN/ringvault) | [ringvault.vercel.app](https://ringvault.vercel.app/) | Kotlin · Compose · Node.js · MongoDB |
 | 🎵 [Aurora Player](https://github.com/TPAINN/aurora-player) | [Live](https://aurora-player-tpainn.vercel.app/) | React 19 · Framer Motion · LRCLib |
 | 🧠 [MindFeed](https://github.com/TPAINN/mindfeed) | [Live](https://mindfeed-tpainn.vercel.app/) | React · Claude AI · PWA |
-| 🌀 [Vortex](https://github.com/TPAINN/vortex-site) | [vortex-site-pi.vercel.app](https://vortex-site-pi.vercel.app/) | Android · Static landing |
+| 🌀 [Vortex](https://github.com/TPAINN/vortex-site) | [vortex-site-pi.vercel.app](https://vortex-site-pi.vercel.app/) | React 19 · Tailwind 4 · Framer Motion |
 | ⛅ Weather App | [Live](https://weather-app-tpainn.vercel.app/) | JavaScript · Weather API |
 | 🧮 [Calculator](https://github.com/TPAINN/calculator) | [Live](https://calculator-tpainn.vercel.app/) | React · Vite |
 
@@ -31,6 +33,7 @@ CS graduate (University of Western Macedonia) building production-ready web & mo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
