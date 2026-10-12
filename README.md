@@ -16,11 +16,11 @@ Photograph a plate or scan a barcode and get the foods and their nutrition. Gree
 <a href="https://nufo.vercel.app">Site</a> | <a href="https://github.com/TPAINN/nufo">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/TPAINN/aurora-player"><img src="https://raw.githubusercontent.com/TPAINN/aurora-player/main/docs/screenshot.jpg" alt="Aurora Player" width="100%"></a><br>
+<a href="https://github.com/TPAINN/aurora-player"><img src="https://raw.githubusercontent.com/TPAINN/aurora-player/main/docs/screenshot.png" alt="Aurora Player" width="100%"></a><br>
 <b>Aurora Player</b><br>
 Music player with word-level synced lyrics, search across several catalogs and DJ-style transitions.<br>
 <sub>React 19, Motion, Vercel functions</sub><br>
-<a href="https://aurora-player-tpainn.vercel.app">Live</a> | <a href="https://github.com/TPAINN/aurora-player">Code</a>
+<a href="https://aurora-player-seven.vercel.app">Live</a> | <a href="https://github.com/TPAINN/aurora-player">Code</a>
 </td>
 </tr>
 <tr>
